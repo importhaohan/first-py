@@ -1,3 +1,3 @@
 # first-py
-Just run it directly. If you want to modify the style, modify it in the source code. There are comments.
+直接运行它。如果你想修改样式，可以在源代码中进行修改。里面有注释。
 我只是一个来自中国的学生，对这一块方面还不太了解，请多多包涵
